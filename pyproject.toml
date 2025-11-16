@@ -6,6 +6,7 @@ version = "0.1.0"
 line-length = 120
 
 [tool.ruff.lint]
+ignore = ["W391"]
 select = ["E", "W", "F", "I", "B", "E225", "E226", "E227", "E228"]
 preview = true
 
