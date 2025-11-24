@@ -36,4 +36,3 @@ class TestHeapSort:
 
     def test_none_input(self):
         assert heap_sort(None) == []
-

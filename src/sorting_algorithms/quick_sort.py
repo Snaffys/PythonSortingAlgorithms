@@ -24,4 +24,3 @@ def quick_sort(arr):
     _quick_sort(arr, 0, len(arr) - 1)
 
     return arr
-

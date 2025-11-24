@@ -36,4 +36,3 @@ class TestQuickSort:
 
     def test_none_input(self):
         assert quick_sort(None) == []
-

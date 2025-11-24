@@ -48,4 +48,3 @@ def merge_sort(arr):
     _merge_sort(arr, 0, len(arr) - 1)
 
     return arr
-

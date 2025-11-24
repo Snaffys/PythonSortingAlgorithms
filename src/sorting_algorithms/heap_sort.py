@@ -28,4 +28,3 @@ def heap_sort(arr):
         heapify(arr, ind, 0)
 
     return arr
-

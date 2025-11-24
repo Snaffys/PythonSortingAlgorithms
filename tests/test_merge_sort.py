@@ -36,4 +36,3 @@ class TestMergeSort:
 
     def test_none_input(self):
         assert merge_sort(None) == []
-

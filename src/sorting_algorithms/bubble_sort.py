@@ -14,4 +14,3 @@ def bubble_sort(arr):
             break
 
     return arr
-

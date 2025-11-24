@@ -36,4 +36,3 @@ class TestBubbleSort:
 
     def test_none_input(self):
         assert bubble_sort(None) == []
-
